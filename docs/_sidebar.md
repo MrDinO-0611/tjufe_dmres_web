@@ -1,8 +1,9 @@
-* [首页](/)
-* 软件指南
-  - [开发环境](/software/dev)
-    - [VSCode 配置](/software/dev#vscode) <!-- 链接到锚点 -->
-    - [Python 环境](/software/dev#python)
-  - [设计工具](/software/design)
-* [翻译项目](/translation/)
-* [关于我们](/about)
+- [🏠 首页](/)
+- [💻 开发工具](/guide/development/)
+  - [Docker 指南](/guide/development/docker.md)
+  - [Git 指南](/guide/development/git.md)
+- [🧠 AI 与深度学习](/guide/ai-tools/)
+  - [ComfyUI 安装指南](/guide/ai-tools/comfyui.md)
+- [🌐 网络与工具](/guide/network/)
+  - [Clash Verge 指南](/guide/network/clash-verge.md)
+- [📚 关于与贡献](/about)
