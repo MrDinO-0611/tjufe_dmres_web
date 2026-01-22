@@ -1,18 +1,33 @@
 # 大数据管理与应用专业资源导航
 
-> 欢迎！这里汇集了专业学习所需的软件、教程和翻译。
+> 本站按照课程进行分类，汇集了专业学习所需的软件、工具、资源。  
 
-## 常用软件
+注：所有显示404的页面均是尚未编辑的页面，请等待作者添加。
+
+## 💻 数字时代开源工具实践(Open source tools)
+- [命令行的使用](guide/basic/powershell.md): 命令行工具
 - [Visual Studio Code](guide/development/vscode.md): 轻量级代码编辑器
-- [Anaconda](guide/development/anaconda3.md): Python环境管理
+- [Anaconda](guide/development/anaconda.md): Python环境管理
 - [Git](guide/development/git.md): 版本控制工具
 - [Docker](guide/development/docker.md): 容器管理
 
-## AI-tools
+## 🧠 生成式人工智能导论(Generative AI)
 - [ComfyUI](guide/ai-tools/comfyui.md): 无代码文生图AI
 - [Dify](guide/ai-tools/dify.md): 无代码创建智能体和工作流
 
-## 新手必读
-1.  [如何配置编程环境](guide/basic/envs.md)
-2.  [高效搜索技巧](guide/basic/search.md)
-3.  [英文文档阅读方法](guide/basic/reading.md)
+## 🌐 科学上网
+- [Clash Verge](guide/network/clash-verge.md): 科学上网
+  
+## 👨‍🎓&👩‍🎓 新手必读
+- [Markdown入门指南](guide/basic/markdown.md)
+- [如何配置编程环境](guide/basic/envs.md)
+- [高效搜索技巧](guide/basic/search.md)
+- [英文文档阅读方法](guide/basic/reading.md)
+   
+## 📚 关于与贡献
+- [关于我和天财数管资源站](about/dm2501jjm.md): 从学习者到共建者
+  
+--- 
+
+> 本指南由居居明维护，如有疑问请联系：`zzming2019@hotmail.com`  
+> 最后更新：2026年1月22日

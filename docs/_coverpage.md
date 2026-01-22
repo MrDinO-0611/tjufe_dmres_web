@@ -4,7 +4,7 @@
 
 - 软件下载指南
 - 中文教程文档
-- README 翻译项目
 
-[开始使用](#首页)
+[开始使用](README.md)
 [GitHub](https://github.com/your-repo)
+
