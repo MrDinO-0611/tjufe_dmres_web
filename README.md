@@ -1,83 +1,88 @@
-# 天财数管资源站
+# Tiancai Data Management Resource Station
 
-> 一个专注于天津财经大学大数据管理与应用专业学习的开源资源指南。
+> An open-source resource guide dedicated to supporting the studies of the Big Data Management and Application major at Tianjin University of Finance and Economics.
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-online-aurora?logo=Github)
 ![GitLab Pages](https://img.shields.io/badge/GitLab%20Pages-online-blue?logo=Gitlab)
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey)
-![Status](https://img.shields.io/badge/状态-持续更新中-coral)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gold)
+![Status](https://img.shields.io/badge/Status-Continuously%20Updating-coral)
 
-## 🎯 项目简介
+> If this site has been helpful to you, please give it a Star. Thank you!
 
-这是一个面向**天津财经大学大数据管理与应用专业**（及相关领域）学生的开源学习资源与指南网站。它汇集了从专业核心技能到前沿工具实践的系统化文档，旨在成为：
+## 🎯 Project Introduction
 
-*   **一份新手入门的成长地图**
-*   **一个持续更新的技能工具箱**
-*   **一处开源共享的知识沉淀池**
+This is an open-source learning resource and guide website for students of the **Big Data Management and Application major** (and related fields) at **Tianjin University of Finance and Economics**. It aggregates systematic documentation ranging from core professional skills to cutting-edge tool practices, aiming to be:
 
-项目完全开源，采用清晰的 Markdown 编写，并基于 Docsify 实时渲染，力求内容实用、结构清晰、访问便捷。
+*   **A growth map for beginners**
+*   **A continuously updated toolkit of skills**
+*   **A pool of open-source, shared knowledge**
 
-**在线访问地址**：👉 [https://pages.drcheng.group/zhouzeming/dm_res_web_test/](https://pages.drcheng.group/zhouzeming/dm_res_web_test/)
+The project is fully open-source, written in clear Markdown, and rendered in real-time using Docsify, striving for practical content, clear structure, and easy access.
 
-## 📖 内容导览
+**Online Access URLs**:
 
-网站内容模块化组织，便于按需查阅：
+👉 GitLab: [https://pages.drcheng.group/zhouzeming/dm_res_web_test/](https://pages.drcheng.group/zhouzeming/dm_res_web_test/)  
+👉 GitHub: [https://mrdino-0611.github.io/tjufe_dmres_web/](https://mrdino-0611.github.io/tjufe_dmres_web/)
 
-- **🔨 核心技能模块**：专业学习必备的“生存技能”，如Markdown、环境配置、搜索与阅读。
-- **🤖 生成式AI导论**：聚焦AIGC的实践指南，包括ComfyUI、Dify等工具的入门与应用。
-- **🌐 开源工具实践**：深入命令行、Git、Docker等构建数字生产力的基石工具。
-- **📝 本站搭建纪实**：透明公开本站从构思到上线的完整技术路径与思考过程。
+## 📖 Content Guide
 
-## 🚀 快速使用
+The website content is organized into modules for easy reference:
 
-### 方式一：在线浏览（推荐）
-直接访问上述 **在线访问地址**，享受最佳阅读体验。所有内容均针对网页浏览进行优化。
+- **🔨 Core Skills Module**: Essential "survival skills" for professional study, such as Markdown, environment setup, searching, and reading.
+- **🤖 Introduction to Generative AI**: Practical guides focusing on AIGC, including introductions and applications of tools like ComfyUI and Dify.
+- **🌐 Open-Source Tool Practices**: Deep dives into foundational tools that build digital productivity, such as command line, Git, and Docker.
+- **📝 Site Development Chronicle**: Transparently documents the complete technical journey and thought process behind this site's creation, from conception to launch.
 
-### 方式二：本地运行与开发
-如果你想在本地查阅、修改或贡献内容，可以克隆此仓库并在本地启动服务：
+## 🚀 Quick Start
+
+### Method 1: Online Browsing (Recommended)
+Directly visit the **Online Access URLs** above for the best reading experience. All content is optimized for web browsing.
+
+### Method 2: Local Development & Preview
+If you wish to view, modify, or contribute to the content locally, you can clone this repository and start a local server:
 
 ```bash
-# 1. 克隆项目到本地
+# 1. Clone the project locally
 git clone https://gitlab.drcheng.group/zhouzeming/dm_res_web_test.git
 
 cd dm_res_web_test
 
-# 2. 全局安装 docsify-cli 工具（如果尚未安装）
+# 2. Install docsify-cli globally (if not already installed)
 npm install docsify-cli -g
 
-# 3. 进入文档目录并启动本地实时预览服务器
+# 3. Enter the documentation directory and start the local live preview server
 docsify serve docs
 
-# 4. 打开浏览器访问 http://localhost:3000
+# 4. Open your browser and visit http://localhost:3000
 ```
 
-## 🤝 如何参与贡献
+## 🤝 How to Contribute
 
-我们坚信，知识在分享与协作中才能产生最大价值。欢迎每一位同学成为内容的**共建者**！
+We firmly believe that knowledge reaches its greatest value through sharing and collaboration. Welcome to become a **co-builder** of this content!
 
-你可以通过以下方式参与：
-1.  **反馈问题**：在GitHub仓库提交 [Issue](https://github.com/yourname/your-repo/issues)，报告错误或提出内容建议。
-2.  **直接改进**：
-    *   Fork 本仓库。
-    *   创建新的分支 (`git checkout -b feature/YourGreatIdea`)。
-    *   编辑或新增 Markdown 文档。
-    *   提交更改 (`git commit -m ‘Add some amazing content’`)。
-    *   推送分支 (`git push origin feature/YourGreatIdea`)。
-    *   提交 Pull Request。
+You can participate in the following ways:
+1.  **Provide Feedback**: Submit an [Issue](https://github.com/yourname/your-repo/issues) in the GitHub repository to report bugs or suggest content improvements.
+2.  **Direct Improvements**:
+    *   Fork this repository.
+    *   Create a new branch (`git checkout -b feature/YourGreatIdea`).
+    *   Edit or add new Markdown documents.
+    *   Commit your changes (`git commit -m 'Add some amazing content'`).
+    *   Push the branch (`git push origin feature/YourGreatIdea`).
+    *   Submit a Pull Request.
 
-贡献内容请遵循现有的文档风格，并确保信息准确、可读性强。
+Please follow the existing documentation style for contributions and ensure information is accurate and readable.
 
-## 📄 版权与许可
+## 📄 License
 
-本站所有原创内容（除非特别说明）均采用 [知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/) 进行许可。
+All original content on this site (unless otherwise specified) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-**简单理解**：
-- **可以**：自由分享、改编，用于个人学习或教学。
-- **需要**：**署名**（注明原作者和来源），**非商业用途**，并以**相同许可协议**分享衍生作品。
+**In simple terms**:
+- **You are free to**: Share and adapt the material for personal learning or teaching.
+- **Under the following terms**: **Attribution** (credit the original author and source), **NonCommercial use**, and **ShareAlike** (share derivative works under the same license).
 
-## ✨ 致谢
+## ✨ Acknowledgments
 
-感谢所有为此资源站提供灵感和帮助的开源项目、技术文档与社区朋友。希望这份凝结了实践与思考的指南，能陪伴你在本专业的探索之路上走得更稳、更远。
+Thanks to all the open-source projects, technical documentation, and community friends that have provided inspiration and assistance for this resource station. We hope this guide, condensed with practice and reflection, can accompany you steadily and further on your exploration journey within this major.
 
 ---
-**保持好奇，乐于分享，持续构建。** 🚀
+**Stay curious, share willingly, build continuously.** 🚀
